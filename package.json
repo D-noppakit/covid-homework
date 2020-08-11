@@ -7,8 +7,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "chart.js": "^2.9.3",
+    "lodash": "^4.17.19",
     "next": "latest",
     "react": "^16.8.6",
+    "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.8.6",
     "swr": "^0.1.18"
   },
